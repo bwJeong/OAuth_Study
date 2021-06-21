@@ -12,3 +12,5 @@
 - Resource Owner: 사용자
 - Resource Server: API를 제공하는 타사 서비스
 
+>3자간의 관계이기 때문에, 철저한 인증(Authentication)과 허가(Authorization)가 필요하다!
+
