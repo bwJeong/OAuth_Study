@@ -25,4 +25,4 @@
 
 #### 3. Access Token 발급
 - 이에 사용자가 승락할 경우, Resource Server에서는 Client의 고유정보인 Id & Secret의 대조를 통해 Client 확인 절차를 수행함
-- 모든 것이 일치할 경우, Resource Server에서는 Client에게 최종적으로 Access Token을 발급하게 됨
+- 모든 것이 일치할 경우, Resource Server에서는 Client에게 최종적으로 **Access Token**을 발급하게 됨
