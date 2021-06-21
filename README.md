@@ -14,6 +14,9 @@
 - Resource Owner: 사용자
 - Resource Server: API를 제공하는 타사 서비스
 
+### Access Token
+- Resource Server의 보호된 자원에 접근할 때 사용되는 권한 확인용 토큰
+
 ### 과정
 
 #### 1. Client 등록
