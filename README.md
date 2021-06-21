@@ -14,7 +14,7 @@
 - Resource Owner: 사용자
 - Resource Server: API를 제공하는 타사 서비스
 
-### 과정(ex. 타사 서비스 로그인 기능의 구현)
+### 과정
 
 #### 1. Client 등록
 - 타사 서비스의 API를 이용하기 위해 Resource Server에 Client를 등록하고, **Client Id & Secret**를 발급받음
