@@ -16,6 +16,6 @@
 
 ### 과정
 1. 타사 서비스에 Client 등록
-  - 타사 서비스의 API를 이용하기 위해 Client를 등록하고, Client Id & Secret를 발급받음
+    - 타사 서비스의 API를 이용하기 위해 Client를 등록하고, Client Id & Secret를 발급받음
 
 
